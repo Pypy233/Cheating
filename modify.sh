@@ -1,0 +1,1 @@
+open /Users/py/Library/Application\ Support/Steam/steamapps/common/DarkestDungeon/_osx/Darkest.app/Contents/Resources/data
